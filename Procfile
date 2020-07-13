@@ -1,2 +1,2 @@
-web: sh setup.sh && streamlit run Tutorial.py
+web: sh setup.sh && streamlit run mvi_ilha_ds.py
 
